@@ -1,2 +1,2 @@
 print("hello")
-print("fuck you anit")
+print("welcome")
